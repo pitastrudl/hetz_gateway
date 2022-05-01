@@ -1,0 +1,24 @@
+variable "hcloud_token" {
+  default = ""
+}
+
+variable "location" {
+  default = ""
+}
+
+variable "pub_ssh_key_path" {
+  default = ""
+}
+
+variable "server_type" {
+  default = ""
+}
+
+variable "os_type" {
+  default = ""
+}
+
+variable "disk_size" {
+  default = ""
+} 
+
